@@ -1,0 +1,46 @@
+div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    margin: 20px 15px 0px 0px;
+  }
+  
+  button {
+    margin: 20px 15px 0px 0px;
+  }
+  
+  #imageMovie {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 5px;
+  }
+  
+  #image {
+    margin-left: 0;
+    margin-right: auto;
+    width: 60%;
+    height: 90%;
+  }
+  
+  #nameImage {
+    margin: 5px 0px 5px 0px;
+  }
+  
+  #formFileLg {
+    margin-top: 40px;
+  }
+  
+  .matRoom {
+    width: 200px;
+  }
+  
+  .titleCard {
+    padding-left: 20px;
+    padding-top: 0.5rem;
+    margin-top: 0.5px;
+    margin-bottom: 15px;
+    background-color: #3f51b5a4;
+    color: #fff;
+  }
