@@ -1,7 +1,7 @@
 # CadastroPessoaFrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
-Node: 16.14.2
+<p>Node: 16.14.2</p>
 
 
 ## Development server
